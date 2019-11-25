@@ -11,6 +11,11 @@ public class TicTacToe {
 	private Player currentPlayer;
 	private Player winner;
 
+	public static void main(String[] args) {
+		
+	}
+
+
 	public TicTacToe() {
 	}
 	public void initialiazeBoard() {} 
